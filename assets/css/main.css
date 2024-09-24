@@ -1766,21 +1766,21 @@ input, select, textarea {
 	}
 	.icon-container{
 		display: flex;
-    	justify-content: center; 
+    	justify-content: center;
     	align-items: center;
-		gap:15px; 
+		gap:15px;
 	}
 		.icon.linkedin i {
 			font-size: 1.5em;
-			color: black;    
+			color: black;
 		}
 		.icon.github i {
 			font-size: 1.5em;
-			color: black;    
+			color: black;
 		}
 		.icon.email i {
 			font-size: 1.5em;
-			color: black;    
+			color: black;
 		}
 		.icon:before {
 			-moz-osx-font-smoothing: grayscale;
@@ -1812,7 +1812,7 @@ input, select, textarea {
 		.icon > .label {
 			display: none;
 		}
-		
+
 
 /* Nav */
 
@@ -2049,7 +2049,7 @@ input, select, textarea {
 
 			#main > .panel.intro {
 				padding: 0;
-				height: 32em;
+				height: 35em;
 				display: -moz-flex;
 				display: -webkit-flex;
 				display: -ms-flex;
