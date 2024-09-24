@@ -2049,7 +2049,7 @@ input, select, textarea {
 
 			#main > .panel.intro {
 				padding: 0;
-				height: 40em;
+				height: 38em;
 				display: -moz-flex;
 				display: -webkit-flex;
 				display: -ms-flex;
