@@ -183,7 +183,7 @@ $(function () {
 		$('.top-menu a[href=\'' + window.location.hash + '\']')
 			.find('.link')
 			.trigger('click');
-	
+
 		if (window.location.hash == '#about-card') {
 			history.replaceState(null, null, ' ');
 		}
